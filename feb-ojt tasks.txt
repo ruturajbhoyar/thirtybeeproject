@@ -1,0 +1,95 @@
+1. Explore the application
+2. create core framework--utilies--logger--report--baseClass-listneres
+3. create user stories
+4. create page and test classes for assigned user story
+5. defect logging--mantis
+
+
+User stories
+
+std. template: 
+login as <role> want to perform <Action> 
+then <output of result /expectation>
+
+
+1. user <login> as a customer and able to select any product 
+then able to see in my orders/cart
+
+2. Register as <customer> when enters all the details 
+then able to see my account
+
+3. user login as cust. and add any payment method(card) 
+then able to see saved cards
+
+4. user login as cust. able set limit for price for product 
+then all products are visible in that price range
+
+********************************************************
+
+1. As a <New customer> can able to <Register> into the website So that purchase item online.
+
+2.As a <Registered Customer> can able to <Login> so that able to see the different items , to purchase.
+
+3.As a <Customer> can able to <Search> list of items So that purchase required item according to the Brands.
+
+4.As a <Customer> can able to <Search  list of items according to Price >So that purchase required item according to the Brand.
+
+5.As a <Customer> can able to <Search  list of items according to size >So that purchase required item according to the specified length/size.
+
+6.As a <Customer> can able to <Add to cart/Bag> the selected item to the bag/cart So that it will seen in orders.
+
+7.As a <Customer> can able to <Place the order> for selected item so that can buy the particular item or place the particular order.
+
+8.As a <Customer> can able to use <Online Payment mode that is debit card > for selected---should not enter correct card details.
+9.As a <Customer> can able to see <Shipping Address> so that it can delivered product at a specified address.
+10. As a <Customer> can able to see <Track item> so that it allows to see the current status of the ordered product to the customer at any point of time .
+
+****************************************************************************
+
+1.User login as a customer and able to add liked products to wishlist then able to see all wishlist added products.
+2.User login as a customer and able to see products on discount then able to see a available vouchers.
+3.User login as a customer and able to see product on sale then able to see a product which having less than 699-799-999rs.
+//4.User login as a customer and able to see product on sale then able to see a product which having less than 799rs.
+//5.User login as a customer and able to see product on sale then able to see a product which having less than 999rs.
+6.user login as a customer and able to see cold shoulder top then able to see a tops which having blue color and price should be less than 699rs.
+7.user login as a customer and able to see 
+7.user login as a customer and able to see totes style bag then able to see a bags which having red,black and blue color and prices should be between 500 to 1000rs.
+8.User login as a customer and placed a oredered then able to see a status of his orders.
+9.User login as customer and for security purpose want to delete personal info then able to delete his account.
+10.As an faballey website worker,he want to see a new orders then able to see new sales oders entry details.
+11.As an faballey website worker,he want to see  sold product then able to see odered out of stock product.
+12.As an faballey website worker,he see a quotation on products the able to all quotation entries.
+13.As a customer and able to see product then able to go on a purchase page.
+
+***************************************************************************
+
+Agile meetings--- devs testers scrum master PO---no hirarchy--- whole team approach
+user story---tasks---200--300
+sprint---group of task---15-20 days--- 5 user story
+release---at the end of sprint---feedback
+retrospective meeting---- in this meeting which things lagged in last sprint and how we will improve
+sprint planning---at the start of sprint
+release planning--- before start of 1st sprint--at very start of project
+iteration--- releases planned in the project
+daily scrum meeting---15-20 mins---last 24 hours what we did---next 24 hours what we will do--- where we stuck/obstacle/blocker
+
+com.bees.utility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
